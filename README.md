@@ -20,7 +20,7 @@ The Colored Markers project is a simple demonstration of HTML and CSS techniques
 ## How to Run
 
 1. Clone the repository to your local machine.
-2. Open `index.html` in your web browser.
+2. Open `coloredMarkers.html` in your web browser.
 
 ## Acknowledgments
 
