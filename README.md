@@ -12,7 +12,7 @@ The Colored Markers project is a simple demonstration of HTML and CSS techniques
 - Provides an organized and visually appealing layout.
 - Basic styling techniques using CSS.
 
-![Colored Markers Screenshot] (coloredMarkers_screenshot.png)
+![Colored Markers Screenshot](coloredMarkers_screenshot.png)
 
 ## Technologies Used
 
